@@ -201,9 +201,40 @@ textarea {
     padding: 1em 2em;
 }
 
-header, footer, .about {
+header, footer, .about, .Project {
     color: #ccc;
 }
+
+.Project {
+    background: #272727;
+    border-bottom: 1px solid #000;
+    border-top: 1px solid #333;
+}
+
+    .Project h2 {
+        color: #fff;
+    }
+
+    .Project h4 {
+        font-size: 1em;
+        font-weight: normal;
+        margin: 1em 0;
+    }
+
+    .Project ul {
+        list-style: circle;
+        padding: 0;
+    }
+
+
+    header a, footer a, .Project a {
+        border: 0;
+        color: #fff;
+    }
+
+        header a:hover, header a:focus, header a:active, footer a:hover, footer a:focus, footer a:active, .Project a:hover, .Project a:focus, .Project a:active {
+            color: #eee;
+        }
 
 .about {
     background: #272727;
