@@ -9,14 +9,10 @@ I'm a developer with goals.  I make things like android apps, minecraft plugins,
 When I'm not working on some awesome coding project I love to swim, hike, cook, play video games, and learn new skills.  I plan to use this website to share interesting things I'm working on with anyone who is interested.
 
 If you like one of my projects or have a cool idea let me know!  If you want to contribute to a repository, go ahead and send a pull request.
-
-# This is an H1 #
-
-## This is an H2 ##
-
-### This is an H3 ######
-
-
+    
+    
+    
+    
 Blog Posts
 ---------------------
 
