@@ -3,6 +3,6 @@ layout: front
 title: 'Joseph Schiarizzi'
 ---
 
-Do you like one of the projects or applications that I have built? Has an article that I have posted on my blog helped you out in some way? Share the love and [buy me a slice of pizza](paypal.me/JosephSchiarizzi)!
+Do you like one of the projects or applications that I have built? Has an article that I have posted on my blog helped you out in some way? Share the love and [buy me a slice of pizza](https//paypal.me/JosephSchiarizzi)!
 
 {% include posts.html %}
