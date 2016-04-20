@@ -1,10 +1,10 @@
-url: "http://mbmccormick.com"
-name: Matt McCormick
-description: "My name is Matt McCormick and I'm a Program Manager at Microsoft and a Computer Science graduate from Purdue University. I live in Seattle with my wife and our dog and I'm always hacking away on something."
+url: "http://JosephSchiarizzi.com"
+name: Joseph Schiarizzi
+description: "My name is Joseph Schiarizzi.  I like to hack stuff and test out new tech."
 language: en-us
 
-author: Matt McCormick
-email: matt@mbmccormick.com
+author: Joseph Schiarizzi
+email: Joseph@JosephSchiarizzi.com
 
 permalink: /:year/:month/:title/
 
@@ -21,13 +21,12 @@ exclude:
 
 google:
   analytics:
-    profile: "UA-6872595-6"
+    profile: "none"
 
 disqus:
-  shortname: mbmccormick
+  shortname: Jschiarizzi
 
 twitter:
-  username: mbmccormick
+  username: CupOJoseph
 
-linkedin:
-  username: mbmccorm
+
