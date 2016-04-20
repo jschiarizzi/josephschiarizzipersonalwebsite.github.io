@@ -10,6 +10,10 @@ When I'm not working on some awesome coding project I love to swim, hike, cook, 
 
 If you like one of my projects or have a cool idea let me know!  If you want to contribute to a repository, go ahead and send a pull request.
 
+
+Blog Posts
+---------------------
+
 {% include posts.html %}
 
 
