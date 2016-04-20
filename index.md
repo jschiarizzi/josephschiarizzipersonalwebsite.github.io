@@ -2,7 +2,7 @@
 layout: page
 title: 'Joseph Schiarizzi'
 ---
-#Hi there!  I'm Joseph.
+Hi there!  I'm Joseph.
 
 I'm a developer with goals.  I make things like android apps, minecraft plugins, software in C and Java, creative encyption solutions, and Raspberry Pi gadgets.  I know Java, C, C#, Javascript, PHP, HTML & CSS, Git, and I'm learning Python this summer.  You can check out any of my open source projects on (Github)[https://github.com/jschiarizzi]!
 
