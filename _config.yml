@@ -1,6 +1,6 @@
 url: "http://JosephSchiarizzi.com"
 name: Joseph Schiarizzi
-description: "My name is Joseph Schiarizzi.  I like to hack stuff and test out new tech."
+description: "My name is Joseph Schiarizzi.  I like to hack stuff and try out new technology.  Twitter and Github are great ways to keep up with me!"
 language: en-us
 
 author: Joseph Schiarizzi
@@ -24,7 +24,7 @@ google:
     profile: "none"
 
 disqus:
-  shortname: Jschiarizzi
+  shortname: disqus_EUcfthsC7O
 
 twitter:
   username: CupOJoseph
