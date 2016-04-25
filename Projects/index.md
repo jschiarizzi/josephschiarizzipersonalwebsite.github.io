@@ -2,6 +2,6 @@
 layout: page
 title: "Projects"
 ---
-There are lots of projects.
+*There are lots of projects.*
 
 Listings coming soon.
