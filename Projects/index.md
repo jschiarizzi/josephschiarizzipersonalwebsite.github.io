@@ -12,5 +12,5 @@ Why should we use simple plain text to encrypt messages when we can combine ampl
 
 <img src="http://static1.squarespace.com/static/55c59574e4b00ba930e985e2/55c95ebce4b03c399626525c/55c95ebde4b04eba929616e5/1439260350523/Busiscan.jpg?format=300w"/>
 
-BusiScan is an android application that allows users to take pictures of business cards to instantly add all information on it to their contacts in their phone.  The android side was mostly developed by my friend (Amitav Khandel)[http://www.amitavkhandelwal.com/], and amazing developer.  The project utilizes [HP's Idol onDemand API](https://dev.havenondemand.com/apis) to convert from pictures to text and included a backend to allow business owners to check where their cards are being scanned.
+BusiScan is an android application that allows users to take pictures of business cards to instantly add all information on it to their contacts in their phone.  The android side was mostly developed by my friend [Amitav Khandel](http://www.amitavkhandelwal.com/), and amazing developer.  The project utilizes [HP's Idol onDemand API](https://dev.havenondemand.com/apis) to convert from pictures to text and included a backend to allow business owners to check where their cards are being scanned.
 
