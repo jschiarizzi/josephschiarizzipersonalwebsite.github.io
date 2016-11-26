@@ -2,10 +2,24 @@
 layout: page
 title: "Projects"
 ---
+**[My Town Hall](https://devpost.com/software/townhall)**
+----------
+
+<img src="http://i.imgur.com/0VoDbOS.png"/>
+
+Winner at HopHacks Fall 2016 (at Johns Hopkins University)
+
+Most people don't follow their local legislature, and may not realise how much local laws affect them directly.  In the state of Maryland, on October First 2016, 35 new laws went into effect but chances are most residents aren’t aware of this.  *My Town Hall* is an android app which allows users to passively track when local laws come into effect in their area.  Users simply insert their Zip Code and the app allows them to view categories of laws that affect them personally.
+
+Along with this project I also created a public facing API hosted on Amazon’s AWS with a Flask server.  The API allowed access to json files with information on law summaries, the date they go into effect, and where they affect.  This API was created for demonstration purposes and is no longer being hosted.  If this is a particular interest of yours please contact me for more info.
+
+
 **[TuneCrypter](http://devpost.com/software/tunecrypter-bitcamp16)**
 ----------
 
 <img src="http://i.imgur.com/SLLAYvW.png"/>
+
+Winner of Cipher Tech's Best Digital Forensics Related Hack at Bitcamp 2016.
 
 Why should we use simple plain text to encrypt messages when we can combine amplitudes, frequencies, and wavelength of sound waves.  This open source project, created at Bit Camp 2016, lets you add secret encrypted messages to .WAV files and share.  Add a secure secret message to the background of your favorite song, send it to your friend, and they can decrypt it with your shared key!
 
@@ -19,7 +33,11 @@ BusiScan is an android application that allows users to take pictures of busines
 **Twitter4M**
 ----------
 
-This project utilizes the [Twitter4J](http://twitter4j.org/en/index.html) library, which brings the twitter API to java.  Twitter4M, built during [HoyaHacks 2016](http://www.hoyahacks.com/), brings twitter to minecraft in a simple [bukkit](https://www.spigotmc.org/) plugin. Simply drag the .jar file into the plugin folder, restart the server, and you can now tweet to a single twitter account from inside your minecraft server.  A working public version of this has not being released for security issues.  The plugin must have access to the secret keys associated with a user's account, and since I don't want anyone to be able to tweet to my twitter account from their minecraft server I have chosen to keep it private.  A public version is scheduled to be released in August 2016.
+<img src="http://i.imgur.com/hwaqdyk.png"/>
+
+This project utilizes the [Twitter4J](http://twitter4j.org/en/index.html) library, which brings the twitter API to java.  Twitter4M, built during [HoyaHacks 2016](http://www.hoyahacks.com/), brings twitter to minecraft in a simple [bukkit](https://www.spigotmc.org/) plugin. Simply drag the .jar file into the plugin folder, restart the server, and you can now tweet to a single twitter account from inside your minecraft server.  A working public version of this has not being released for security issues.  The plugin must have access to the secret keys associated with a user's account, and since I don't want anyone to be able to tweet to my twitter account from their minecraft server I have chosen to keep it private.  
+
+If you have a specific interest in this plugin feel free to contact me.
 
 **[Sanabit](https://github.com/mihilmy/sinabit)**
 ----------
