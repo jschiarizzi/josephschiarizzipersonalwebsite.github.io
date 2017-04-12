@@ -13,6 +13,7 @@ I also spent time learning how to use [MapBox](https://www.mapbox.com/), and let
 From there we took a bunch of shape files provided to us by IBM.  Shape files hold world coordinate information that can be added over the top of maps.  These shape files had some problems, held too much meta data, and were not compatable with MapBox right away.  Mike was able to clean them up by removing a lot of unneeded fields so that we could add them to our map. When I had a series of working shape files I was able to simply create a layer in MapBox's intuitive web-based editor.  The layer takes the information from the shape files and gives us a view of the borders of every school district in America with an ID (assigned by the Department of Education) associated with each district.  This is very valuable because when we visualize data on each school we want to be able to view it by district, not county or zipcode because that's how funding is given and how our data is tracked.  This map is embedded in the index.html in our project's repo.
 
 You can use the school district map with the following code snippet.
+
 ```html
     <script src='https://api.mapbox.com/mapbox-gl-js/v0.34.0/mapbox-gl.js'></script>
     <link href='https://api.mapbox.com/mapbox-gl-js/v0.34.0/mapbox-gl.css' rel='stylesheet' />
