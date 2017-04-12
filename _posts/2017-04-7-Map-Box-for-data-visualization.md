@@ -14,4 +14,4 @@ From there we took a bunch of shape files provided to us by IBM.  Shape files ho
 
 The repo with all our code and data has been open sourced and can be found here: https://github.com/mikearango/GWData-IBM-Hackathon.
 
-[map]: https://github.com/mikearango/GWData-IBM-Hackathon/blob/master/src/img/Screen%20Shot%202017-04-07%20at%2010.50.28%20PM.png
+[map1]: https://github.com/mikearango/GWData-IBM-Hackathon/blob/master/src/img/Screen%20Shot%202017-04-07%20at%2010.50.28%20PM.png
