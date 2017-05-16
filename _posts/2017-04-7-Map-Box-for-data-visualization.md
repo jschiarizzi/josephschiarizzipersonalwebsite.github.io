@@ -2,9 +2,9 @@ Today I started a project with my friends, [Rowland](https://github.com/row2k) a
 
 We had a few ideas about comparing various educations statatistics for the country with income tax rates and school funding data found here: https://www.usaspending.gov/transparency/Pages/SpendingMap.aspx
 
-After looking at more data we decided to compare Math assment success rates with graduation rates.  Do these numbers always coorelate? And can we compare this with school funding?  These were the questions we hoped to answer with the data set.  The data was very messy and we spent the majority of the time cleaning it.  We better documented what each section of the data represents and have added those comments in our repository for it.
+After looking at more data we decided to compare Math assment success rates with graduation rates.  Do these numbers always coorelate? And can we compare this with school funding?  These were the questions we hoped to answer with the data set.  The data was very messy and we spent the majority of the time cleaning it.  We better documented what each section of the data represents and have added those comments in our repository for it. Moving on, we will use this next time to answer those questions.
 
-I also spent time learning how to use [MapBox](https://www.mapbox.com/), and let say I have fallen in love.  Mapbox, if you haven't heard, is a platform for creating custom and beautiful maps.  It let's you make your own version of google maps with what ever layers, textures, animations, constraints, and styles you'd like.  It's really an incredible tool.  In just a few minutes I was able to style the following map and embed it in a webpage. 
+I also spent time learning how to use [MapBox](https://www.mapbox.com/), and let me say I have fallen in love.  Mapbox, if you haven't heard, is a platform for creating custom and beautiful maps.  It let's you make your own version of google maps with what ever layers, textures, animations, constraints, and styles you'd like.  Have you used AirBnB or MapQuest? Then you have used maps made with MapBox. It's really an incredible tool.  In just a few minutes I was able to style the following map and embed it in a webpage. 
 
 <img src="http://i.imgur.com/rsmvZIC.png"/>
 
