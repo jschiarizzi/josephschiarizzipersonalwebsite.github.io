@@ -13,4 +13,4 @@ One piece that stood out to me the most was a map of coastline drawn by George W
 
 If even the great George Washington made mistakes and was still able to achieve greatness, then maybe there’s hope for the rest of us
 
-Many images and cool maps from the conference can be found here: https://goo.gl/photos/H8AE8fcwMdRzsufP9
+Many images and cool maps from the conference can be found in the [google photo album here](https://goo.gl/photos/H8AE8fcwMdRzsufP9). 
