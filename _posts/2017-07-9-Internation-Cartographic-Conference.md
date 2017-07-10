@@ -1,5 +1,5 @@
 ...or, why you should go on every adventure you can.
-====
+-----
 
 The weeks ago I saw a link on twitter posted by NGA about a cartography conference happening near me in Washington DC.  I’ve always really loved maps.  I remember when I was younger I used to trace puzzles of the countries of the world all the time.  My last blog post was about how much I love Mapbox, so I don’t think I need to reiterate too much about how beautiful I think maps can be.
 
