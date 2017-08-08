@@ -5,7 +5,7 @@ title: 'About'
 
 <img src="http://i.imgur.com/gFWMev6.jpg" alt="profile" class="profile" />
 
-My name is Joseph Schiarizzi and I'm a Computer Science student at The George Washington University. I love problem solving and trying out new technology.  I'm the Recruitment Director of my school's chapter of the ACM and I attend hackathons whenever I can.  
+My name is Joseph Schiarizzi and I'm a Computer Science student at The George Washington University. I love problem solving and trying out new technology.  I spend a lot of time working on [Hackital](hackital.io) - a hackathon in the capital, which I am the Director of.  
 
 You can take a look at my open source projects on [GitHub](https://www.github.com/jschiarizzi). If you see something you like, enjoyed one of my blog posts, or use one of my applications, share the love and [buy me a slice of pizza](https://www.paypal.me/JosephSchiarizzi)!
 
