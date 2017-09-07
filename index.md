@@ -2,6 +2,8 @@
 layout: page
 title: 'Joseph Schiarizzi'
 ---
+Map demo: http://josephschiarizzi.com/Virginia-dems-election-map-2017/
+
 Hi there!  
 
 My name is Joseph, and I'm a developer with goals.  I make things like android apps, interactive & custom styled maps, software in C and Java, creative encryption solutions, and Raspberry Pi & Arduino gadgets.  I know Java, C, C++, PHP, HTML & CSS, Git, C#, jQuery, node.js, Python and probably a few others by now.  I've built projects using APIs from Bloomberg, Twilio, Twitter, IBM, Mapbox, and others.  You can check out any of my open source projects on [Github](https://github.com/jschiarizzi)!
