@@ -2,6 +2,16 @@
 layout: page
 title: "Projects"
 ---
+**[Next Big Thing Bot](https://twitter.com/nextbigthingbot)**
+----------
+<img src="https://i.imgur.com/aWteFIU.png"/>
+
+This is a quick project leveraging a few neat tools.  Next Big Thing Bot generates startup ideas based on "the next X but for Y" format.  The list of X and Y terms was crowd sourced by about a dozen people on github.  Feel free to send a [pull request](https://github.com/jschiarizzi/XforYgen) if you would like to add some terms.  The bot is automated using [Glitch](glitch.com), which is a service for setting up instant servers.  The server is pinged every 12 hours from an HTTP request sent by [If This Then That](ifttt.com) (IFTTT). The IFTTT service is very fun to play with and so is glitch.
+
+Check out the glitch [site](https://xforygen.glitch.me/) hosting the bot.
+
+
+
 **[My Town Hall](https://devpost.com/software/townhall)**
 ----------
 
@@ -45,4 +55,3 @@ If you have a specific interest in this plugin feel free to contact me.
 <img src="http://challengepost-s3-challengepost.netdna-ssl.com/photos/production/software_photos/000/288/441/datas/gallery.jpg" />
 
 Sanabit is a program that allows doctors and people going through physical therapy (PT) to monitor and track their progress.  This program was inspired by my friend Ali, who has struggled with ankle problems for years, needing PT daily to be able to walk at all.  After doing PT daily for years it is hard to see any progress being made.  This led to depression for my friend and something I hoped to solve with a great group of coders at HopHacks 2015.  By reprogramming the [Myo armband](https://www.myo.com/) to work on ankles we were able to accurately measure a patients progress in many common PT exercises.
-
