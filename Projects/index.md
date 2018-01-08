@@ -7,7 +7,7 @@ title: "Projects"
 <img src="https://i.imgur.com/utODUV1.png" style="width: 600px;"/>
 
 
-<img src="https://i.imgur.com/YZj7o4y.png"style="width: 600px;"/>
+<img src="https://i.imgur.com/YZj7o4y.png" style="width: 600px;"/>
 
 This map plots all the Virginia House of Delegates districts, and colors them based on the Fall 2017 election.  It also includes information and links for all democrats running for in the state.  This list was generated using automations in javascript. The map functionality and styling was created using APIs from [Mapbox](http://mapbox.com). I made this map for a contract with [WinVirginia](http://winvirginia.org/) in the summer of 2017 and the code for it has been [open sourced](https://github.com/jschiarizzi/Virginia-dems-election-map-2017).  If you have an idea for a custom map you would like produced, please contact me.
 
