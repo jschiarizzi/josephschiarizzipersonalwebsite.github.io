@@ -2,11 +2,22 @@
 layout: page
 title: "Projects"
 ---
+**[Virginia House Fall 2017 Election - Democrats Map](http://josephschiarizzi.com/Virginia-dems-election-map-2017/)**
+
+<img src="https://i.imgur.com/utODUV1.png" style="width: 600px;"/>
+
+
+<img src="https://i.imgur.com/YZj7o4y.png"style="width: 600px;"/>
+
+This map plots all the Virginia House of Delegates districts, and colors them based on the Fall 2017 election.  It also includes information and links for all democrats running for in the state.  This list was generated using automations in javascript. The map functionality and styling was created using APIs from [Mapbox](http://mapbox.com). I made this map for a contract with [WinVirginia](http://winvirginia.org/) in the summer of 2017 and the code for it has been [open sourced](https://github.com/jschiarizzi/Virginia-dems-election-map-2017).  If you have an idea for a custom map you would like produced, please contact me.
+
+---
+
 **[Next Big Thing Bot](https://twitter.com/nextbigthingbot)**
 ----------
 <img src="https://i.imgur.com/aWteFIU.png"/>
 
-This is a quick project leveraging a few neat tools.  Next Big Thing Bot generates startup ideas based on "the next X but for Y" format.  The list of X and Y terms was crowd sourced by about a dozen people on github.  Feel free to send a [pull request](https://github.com/jschiarizzi/XforYgen) if you would like to add some terms.  The bot is automated using [Glitch](glitch.com), which is a service for setting up instant servers.  The server is pinged every 12 hours from an HTTP request sent by [If This Then That](ifttt.com) (IFTTT). The IFTTT service is very fun to play with and so is glitch.
+This is a quick project leveraging a few neat tools.  Next Big Thing Bot generates startup ideas based on "the next X but for Y" format.  The list of X and Y terms was crowd sourced by about a dozen people on github.  Feel free to send a [pull request](https://github.com/jschiarizzi/XforYgen) if you would like to add some terms.  The bot is automated using [Glitch](http://glitch.com), which is a service for setting up instant servers.  The server is pinged every 12 hours from an HTTP request sent by [If This Then That](ifttt.com) (IFTTT). The IFTTT service is very fun to play with and so is glitch.
 
 Check out the glitch [site](https://xforygen.glitch.me/) hosting the bot.
 
