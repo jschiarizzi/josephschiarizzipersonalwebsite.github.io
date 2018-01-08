@@ -2,6 +2,15 @@
 layout: page
 title: "Projects"
 ---
+**[Meteorite Heat Map](http://josephschiarizzi.com/meteor-heatmap/)**
+----------
+
+<img src="https://i.imgur.com/b79x42p.png" />
+
+This [open source](https://github.com/jschiarizzi/meteor-heatmap) map displays a heat map of the locations of where all known meteorites have landed on earth.  It was created with a public [data](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh) set from NASA and an API from [Mapbox](http://mapbox.com).  The map includes some nice color effects for the density of landings as well as more information on meteorites (date of landing & weight) when zoomed in on and clicked. 
+
+---
+
 **[Virginia House Fall 2017 Election - Democrats Map](http://josephschiarizzi.com/Virginia-dems-election-map-2017/)**
 ----------
 <img src="https://i.imgur.com/utODUV1.png" style="width: 600px;"/>
