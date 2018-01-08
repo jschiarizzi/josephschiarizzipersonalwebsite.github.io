@@ -3,7 +3,7 @@ layout: page
 title: "Projects"
 ---
 **[Virginia House Fall 2017 Election - Democrats Map](http://josephschiarizzi.com/Virginia-dems-election-map-2017/)**
-
+----------
 <img src="https://i.imgur.com/utODUV1.png" style="width: 600px;"/>
 
 
