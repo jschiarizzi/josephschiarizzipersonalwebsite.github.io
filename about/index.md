@@ -3,7 +3,7 @@ layout: page
 title: 'About'
 ---
 
-<img src="http://i.imgur.com/gFWMev6.jpg" alt="profile" class="profile" />
+<img src="https://i.imgur.com/ispXYpO.jpg" alt="profile" class="profile" />
 
 My name is Joseph Schiarizzi and I'm a Computer Science student at The George Washington University. I love problem solving and trying out new technology.  I spend a lot of time working on [Hackital](hackital.io) - a hackathon in the capital, which I am the Director of.  
 
