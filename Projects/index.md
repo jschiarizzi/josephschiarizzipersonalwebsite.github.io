@@ -7,7 +7,15 @@ title: "Projects"
 
 <img src="https://i.imgur.com/b79x42p.png" />
 
-This [open source](https://github.com/jschiarizzi/meteor-heatmap) map displays a heat map of the locations of where all known meteorites have landed on earth.  It was created with a public [data](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh) set from NASA and an API from [Mapbox](http://mapbox.com).  The map includes some nice color effects for the density of landings as well as more information on meteorites (date of landing & weight) when zoomed in on and clicked. 
+This [open source](https://github.com/jschiarizzi/meteor-heatmap) map displays a heat map of the locations of where all known meteorites have landed on earth.  It was created with a public [data](https://data.nasa.gov/Space-Science/Meteorite-Landings/gh4g-9sfh) set from NASA and an API from [Mapbox](http://mapbox.com).  The map includes some nice color effects for the density of landings as well as more information on meteorites (date of landing & weight) when zoomed in on and clicked.
+
+---
+
+**[Aligning and compositing the images of the Prokudin-Gorskii photo collection](http://josephschiarizzi.com/rgb-aligner/)**
+----------
+![my example](lady.png)
+
+The goal of this project was to experiment with some Computer Vision libraries.  I take red + green + blue filtered images from Russia in about 1905 and attempt to automate their alignment, created a full colored image. The base images are from the Library of Congress's [Prokudin-Gorskii photo collection](http://www.loc.gov/pictures/collection/prok/).  This project uses python, openCV, and some common computer vision libraries.
 
 ---
 
