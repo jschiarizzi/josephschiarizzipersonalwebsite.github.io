@@ -2,6 +2,20 @@
 layout: page
 title: "Projects"
 ---
+
+**[Computer Vision Thermal Comfort Prediction Engine](http://josephschiarizzi.com/Thermal-comfort-computer-vision/)**
+----------
+<img src="https://i.imgur.com/1vR4Jsn.png" alt="Karl box" style="width: 200px;"/>
+<img src="https://i.imgur.com/HYUTsag.png" alt="Ir cropped" style="width: 200px;"/>
+
+This [open source](https://github.com/jschiarizzi/meteor-heatmap) project is a series of python scripts utilizing OpenCV (open source computer vision) to get useful data from Infra-Red and true color images of people's (Karl's) faces in order to guess if they are comfortable in the given temperature.
+
+A long-term solution to this problem is to develop a smart home thermostat that uses computer vison to automatically detect a person’s thermal comfort level and adjust the room temperature accordingly. Computer vision coupled with machine learning are vastly growing fields of research that have the potential to predict a person’s thermal comfort level. This smart thermostat will save home owners and buildings managers lots money. Why waste energy heating your whole house if you are only in one room at a time? The best part is that it is hands free!
+
+
+---
+
+
 **[Meteorite Heat Map](http://josephschiarizzi.com/meteor-heatmap/)**
 ----------
 
