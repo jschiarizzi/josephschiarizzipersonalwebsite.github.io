@@ -34,3 +34,6 @@ The majority of this project is backend API integration so there is not a lot to
 
 ## What's next
 The next step is to integrate OST branded tokens ownership with our decentralized identity that users can log in with.
+
+## Challenges
+Challenges so far are connecting the front end JS library to back end APIs.  The identity flow of the application involves using several QR codes that must be passed between front and back-ends.  Keeping this organized has been the challenge of the week.
