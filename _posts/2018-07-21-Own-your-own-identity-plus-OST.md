@@ -12,6 +12,9 @@ When you use google or facebook to log into an app you are using google and face
 
 The connection to OST is that users in each project will have some persona (wallet, soft of) for interacting with that project / community.  Users may find it extremely useful to be able to log into many apps built on OST with 1 identity that they own.  That integration is my contribution.
 
+## Goal
+*Allow users to use uPort to log into multiple OST token apps with 1 whole (non-fragmented) identity.*
+
 ## Tech stack
 
 ### OST API - currently in Alpha v3.
@@ -24,7 +27,10 @@ Uport has great [developer tools and documentation](https://developer.uport.me/)
 This project is being hosted and built on [glitch](https://glitch.com/), allowing it to be remixed so anyone can instantly use the app however they want.
 
 ## Project status
-We are now 25% into the timeline for tis project. Where are we? 
+We are now 25% into the timeline for tis project. Where are we?
+Glitch server has been setup here: https://uport-tester.glitch.me/
 
+The majority of this project is backend API integration so there is not a lot to show in the front right now. However, we are well on the way to a uport js client that anyone can clone. More info in docs [here](https://developer.uport.me/clients#u-port-js-client).
 
 ## What's next
+The next step is to integrate OST branded tokens ownership with our decentralized identity that users can log in with.
