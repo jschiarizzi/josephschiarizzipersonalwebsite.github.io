@@ -7,9 +7,11 @@ We are already through [OST's](https://ost.com) Alpha III Challenge. OST lets pe
 
 
 ## Status Update
-This week we finished up our [uport-connect](https://github.com/uport-project/uport-identity) integration.  Now you can log in with a uport button which generates QR codes and allows the user to verify. This week we've also spent some time putting the [OST api]() which we will be focusing on together.  Most of the next week will be figuring out what parts of each OST project the user will be able to access and interact with.
+Already made is our uport connect button for Single Sign On (SSO) using a decentralized identity. Cool stuff!
 
 ![uport button](https://i.imgur.com/LgFv07S.png)
+
+This week we finished up our [uport-connect](https://github.com/uport-project/uport-identity) integration.  Now you can log in with a uport button which generates QR codes and allows the user to verify. This week we've also spent some time putting the [OST api]() which we will be focusing on together.  Most of the next week will be figuring out what parts of each OST project the user will be able to access and interact with.
 
 
 ## Challenges
