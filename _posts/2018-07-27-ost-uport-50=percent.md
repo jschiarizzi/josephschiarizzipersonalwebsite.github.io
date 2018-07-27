@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Own your own identity + simple branded tokens to make blockchain projects whole"
+title: "uport + OST integration halfway update"
 ---
 
 We are already through [OST's](https://ost.com) Alpha III Challenge. OST lets people easily create their own branded token with a dashboard all setup to get info on transactions, users, and with lots of options.  I'm currently building an integration for OST and [uport](https://www.uport.me/) so OST users can log in with one account they control and interact with different dapp ecosystems.
