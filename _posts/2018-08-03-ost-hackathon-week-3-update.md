@@ -12,10 +12,15 @@ This will be a quicker update since I've been extra busy this week.  Hopefully t
 ## What progress did you make on your Alpha III POC this week?
 This week we wrote the API calls that will be made to OST for each project a suser adds to their uport profile. We've written it for the generic case, so any OST project can be added and users will be able to log in with uport to interact with multiple OST projects at once.
 
-Calls look like this
+Calls look like this and are made in javascript:
 
+*Balances*
 ~~~javascript
-blah()
+
+~~~
+
+*Transactions*
+~~~javascript
 ~~~
 
 ## What did you learn/issues you had to overcome?
