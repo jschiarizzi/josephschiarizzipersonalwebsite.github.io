@@ -14,15 +14,34 @@ This week we wrote the API calls that will be made to OST for each project a sus
 
 Calls look like this and are made in javascript:
 
-*Balances*
+***Balances***
 ~~~javascript
+GET - https://sandboxapi.ost.com/v1.1/balances/user-Id-ABC123?api_key=99999999&request_timestamp=1526525211&signature=signature-string
 
+ost_balance_object = ost_sdk.services.balances # initializes the balance object
+
+ost_balance_object.get({id: 'd66a40d0-b2fa-4915-b6d2-46bbe644278a'}).to_json   # Fetch the users balance
 ~~~
 
-*Transactions*
+For each different OST project the user ID will be different per person. By storing that for each of _our_ users we can combine the identities across platforms.
+
+We can also see a list of transactions.
+
+***Transactions***
 ~~~javascript
+GET - https://sandboxapi.ost.com/v1.1/transactions/?api_key=123456789&limit=5&page_no=1&request_timestamp=1526452463&signature=abc123
 ~~~
+
+Each project will have a different API key that can saved.
+
+More on how to generate signatures [here](https://dev.ost.com/docs/api_authentication.html).
 
 ## What did you learn/issues you had to overcome?
+The most important issue right now is securing the user IDs for each person, and controlling who owns them.
+
+Another issue that I'm planning on for this week is figuring out how to authenticate the API calls from someone else's OST project. Perhaps there can be an admin login where one can securing add their keys so people using their project will be able to use our product more easily?
 
 ## What are you planning for the next week?
+In the next week we are bringing it home! Time to make the final integrations and combine the identity functions described in post 1 and 2, with the Api calls described here.
+
+Follow me on [twitter](https://twitter.com/cupojoseph) to keep up with the progress.
