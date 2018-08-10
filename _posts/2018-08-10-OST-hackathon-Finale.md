@@ -9,9 +9,11 @@ My Submission for the OST alpha III hackathon is here: [https://uport-ost.glitch
 
 [Simple Token (OST) is a project](https://ost.com/) to make it easy for people to create their own branded blockchain tokens.  I really like the idea of making utility tokens easier to use, having trackable analytics dashboards built in, and spreading useful applications of this tech.  There are lots of chances to experiment with what OST could be used for today.  That's why I'm building an integration with [uPort](https://www.uport.me/) and OST.
 
+The connection between uport and OST will help bridge the gap between hundreds of different token economies and verify who you are within/between a token's community.
+
 [More info on my ideas for this project in OSTaIII Post 1](./2018-07-21-Own-your-own-identity-plus-OST.md)
 
-# Final Product
+## Final Product
 
 ![finale](https://i.imgur.com/P3SwX9O.png)
 
@@ -19,7 +21,21 @@ This project allows users to log in with uPort, see their balance of IVNT, and s
 
 This does not quite get up to my original goal (*Allow users to use uPort to log into multiple OST token apps with 1 whole (non-fragmented) identity.*) due to some technical constraints which will be further discussed below.
 
-## Flow
+## Wallet Features
+
+I used the balance inquiry features in OST's new javascript SDK.
+It's setup like this:
+
+~~~javascript
+const ostObj = new OSTSDK({apiKey: apikey, apiSecret: ostsecret, apiEndpoint: apiEndpoint});
+var ost_ledger_object = ostObj.services.ledger;
+
+ost_balance_object.get({id: globalUser.OST.IVNT.userID}).to_json
+~~~
+This first two lines create a ledger object. The last line uses a users ID, which is saved in uport and requested, to get the balance of the user.
+
+
+## Flow Design
 
 ![uport flow diagram](https://developer.uport.me/diag1a-fcb6d01dc49e48c491272ac0ea4fca0f.svg)
 1. Browser displays QR code with URI
