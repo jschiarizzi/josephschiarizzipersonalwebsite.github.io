@@ -9,7 +9,7 @@ My Submission for the OST alpha III hackathon is here: [https://uport-ost.glitch
 
 [Simple Token (OST) is a project](https://ost.com/) to make it easy for people to create their own branded blockchain tokens.  I really like the idea of making utility tokens easier to use, having trackable analytics dashboards built in, and spreading useful applications of this tech.  There are lots of chances to experiment with what OST could be used for today.  That's why I'm building an integration with [uPort](https://www.uport.me/) and OST.
 
-[More info on my ideas for this project in OSTaIII Post 1](2018-07-21-Own-your-own-identity-plus-OST.md)
+[More info on my ideas for this project in OSTaIII Post 1](./2018-07-21-Own-your-own-identity-plus-OST.md)
 
 # Final Product
 
