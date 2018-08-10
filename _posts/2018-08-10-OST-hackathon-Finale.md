@@ -5,13 +5,15 @@ title: "OST Alpha III POC"
 
 My Submission for the OST alpha III hackathon is here: https://uport-ost.glitch.me/
 
-![header]()
+![header](https://i.imgur.com/xyUlWlM.png)
 
 [Simple Token (OST) is a project](https://ost.com/) to make it easy for people to create their own branded blockchain tokens.  I really like the idea of making utility tokens easier to use, having trackable analytics dashboards built in, and spreading useful applications of this tech.  There are lots of chances to experiment with what OST could be used for today.  That's why I'm building an integration with [uPort](https://www.uport.me/) and OST.
 
 [More info on my ideas for this project in OSTaIII Post 1](2018-07-21-Own-your-own-identity-plus-OST.md)
 
 # Final Product
+
+![finale](https://i.imgur.com/P3SwX9O.png)
 
 This project allows users to log in with uPort, see their balance of IVNT, and send tokens to other users who have added their userIDs from OST to their uPort profile.
 
@@ -36,5 +38,7 @@ Originally I had wanted users to be able to log in with uPort to any token.  How
 It was a challenge to make OST API calls outside of their (very well documented and powerful) javascript libraries.  Perhaps if I come back to this project I will make it easier to add more tokens.  For now, I can only manually add supported tokens myself, as the website admin.  However, I can only make 1 OST token project so we are limited to IVNT tokens today.
 
 ## Successes
+
+![qrcode uport](https://i.imgur.com/yy8aiC6.png)
 
 It was fun to work with uPort, I think it is an important next step in the progression of web3.  I hope the web will move away from google and facebook owning our identities towards a decentralized solution where I can own my own identity.
