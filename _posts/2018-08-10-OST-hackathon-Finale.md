@@ -3,7 +3,7 @@ layout: post
 title: "OST Alpha III POC"
 ---
 
-My Submission for the OST alpha III hackathon is here: https://uport-ost.glitch.me/
+My Submission for the OST alpha III hackathon is here: [https://uport-ost.glitch.me/](https://uport-ost.glitch.me/)
 
 ![header](https://i.imgur.com/xyUlWlM.png)
 
