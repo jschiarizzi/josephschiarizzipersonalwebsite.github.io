@@ -1,7 +1,7 @@
 
 # Our team is extremely motivated to solve energy problems related to using renewable electricity most effectively.
 
-![grav logo](https://i.imgur.com/C6tIPCS.png)
+![grav logo](https://i.imgur.com/C6tIPCS.png =250px)
 
 We have unreliable renewable energy (sometimes it is cloudy = less solar) and need to pair it with better battery tech in order to use green energy most effectively.  We have not fully explored gravity batteries as an alternative to costly chemical batteries which unethical supply chains.
 
